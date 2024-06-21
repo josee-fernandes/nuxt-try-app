@@ -9,3 +9,7 @@
 .title {
   @apply font-bold text-2xl;
 }
+
+.link {
+  @apply underline hover:text-sky-500 transition-all;
+}
